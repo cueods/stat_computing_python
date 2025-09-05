@@ -125,7 +125,7 @@ For this course, students are not required to have testing forms or accommodatio
 
 ### **Acknowledgement**
 
-A lot of these materials are based off the materials from **Prof Thibault Vatter** and **Prof Gabriel Young**.
+A lot of these materials are based off the materials from **Prof Thibault Vatter**, **Prof Gabriel Young**, **Prof Wayne Lee**, and **Prof Yongchan Kwon**.
 
 ---
 *Published using **GitHub Pages***
