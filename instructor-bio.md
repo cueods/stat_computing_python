@@ -11,7 +11,7 @@ His research focuses on data mining, statistical modeling, and simulation, with 
 
 An Adjunct Associate Professor in the Department of Statistics at Columbia University, Dr. Wang has also taught at the Data Science Institute and the Applied Analytics Program. He holds a Ph.D. in Decision Sciences and Engineering Systems, a M.S. in Operations Research and Statistics from Rensselaer Polytechnic Institute and a B.S. in Transportation Engineering from Tongji University, China.
 
-## **Instructor's Teaching Philosophy**
+# **Instructor's Teaching Philosophy**
 
 ### **1. Learn by Imitation: Follow Live Coding Demos**
 **Absorb techniques through observation.**
