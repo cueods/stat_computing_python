@@ -35,6 +35,7 @@ title: Statistical Computing and Introduction to Data Science
 * [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * **Basics only** - [Programming with Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
 * [**LearningPython.org**](https://www.learnpython.org/)
+* **Ace the Data Science Interview**
 * **Data engineering references** *(not covered in this class)*:  
    * *Designing Data-Intensive Applications* by Martin Kleppmann (available in NYPL)  
    * *System Design Interview - An Insider's Guide* by Alex Xu
