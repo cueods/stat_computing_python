@@ -35,10 +35,10 @@ title: Statistical Computing and Introduction to Data Science
 * [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * **Basics only** - [Programming with Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
 * [**LearningPython.org**](https://www.learnpython.org/)
-* **Ace the Data Science Interview**
 * **Data engineering references** *(not covered in this class)*:  
    * *Designing Data-Intensive Applications* by Martin Kleppmann (available in NYPL)  
    * *System Design Interview - An Insider's Guide* by Alex Xu
+   * *Ace the Data Science Interview* by Kevin Huo and Nick Singh
 * AI tools like ChatGPT are generally **NOT allowed** unless explicitly allowed for the assignment. You are strongly discouraged from using them for intro courses which this course is. If you cannot resist the temptation though, it is best that you prompt ChatGPT to ask you questions rather than having it provide you with solutions. You are still responsible for the correctness of your work.
 
 ## **Course Timeline**
