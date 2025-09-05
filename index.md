@@ -84,19 +84,17 @@ If your final grade is in [93-97), you will earn at least an A, [90-93) will ear
 * If you want to learn how to use **Google Colab**, follow these instructions
 * Please read these **important things** related to submitting homeworks on **Ed**
 
-#### **Exams (70%)**
+#### **Exams (65%)**
 
-* **2 weighing schemes:**  
-   * **Midterm (30%)** + **Final (40%)**  
-   * **Midterm (15%)** + **Final (55%)**  
-   * You will receive a letter grade from curving each approach and receive the **higher letter grade** between the 2 approaches.
+* **Midterm (28%)**
+* **Final (37%)**
 
-#### **Participation (5%)**
+#### **Participation (10%)**
 
 * **In class participation**
 * **Online question posting** (non-private) and answers are all ways to achieve this
 * I will reach out after the midterm if you are at risk of missing some points here
-* **You can miss one of these for free**
+* **No class absences allowed**
 
 ##### **Exam Accommodations**
 
