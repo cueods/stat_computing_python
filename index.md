@@ -89,7 +89,7 @@ Yizi Zhang yz4123@columbia.edu
 #### **Office Hours:**
 
 **Mondays** Nikira 9:45am - 11:45am  
-**Location:** School of Arts and Sciences at Columbia University, Student Lounge on the 6th Floor.
+**Location:** Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
 
 **Tuesdays** Yizi TBD  
 **Location:** TBD
