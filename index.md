@@ -69,7 +69,9 @@ title: Statistical Computing and Introduction to Data Science
 
 ### **Teaching Team**
 
-**Instructor:** Haiyuan Wang
+**Instructor:** Haiyuan Wang Ph.D. <hw2592@columbia.edu>
+
+**TA:** Nikira Walter <naw2146@columbia.edu>
 
 See **Ed** for office hours
 
