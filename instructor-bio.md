@@ -9,7 +9,7 @@ Dr. Wang is a financial modeler specializing in fixed income securities valuatio
 
 His research focuses on data mining, statistical modeling, and simulation, with applications in financial engineering and engineering management. He has led quantitative research projects at BlackRock, Morgan Stanley, and Roosevelt, where he designed and implemented cutting-edge analytical solutions.
 
-An Adjunct Assistant Professor in the Department of Statistics at Columbia University, Dr. Wang has also taught at the Data Science Institute and the Applied Analytics Program. He holds a Ph.D. in Decision Sciences and Engineering Systems, a M.S. in Operations Research and Statistics from Rensselaer Polytechnic Institute and a B.S. in Transportation Engineering from Tongji University, China.
+An Adjunct Associate Professor in the Department of Statistics at Columbia University, Dr. Wang has also taught at the Data Science Institute and the Applied Analytics Program. He holds a Ph.D. in Decision Sciences and Engineering Systems, a M.S. in Operations Research and Statistics from Rensselaer Polytechnic Institute and a B.S. in Transportation Engineering from Tongji University, China.
 
 ## **Instructor's Teaching Philosophy**
 
