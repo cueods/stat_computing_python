@@ -75,11 +75,13 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 
 ### **Teaching Team**
 
-**Instructor:** Haiyuan Wang Ph.D. <hw2592@columbia.edu>
+**Instructor:** Haiyuan Wang Ph.D. hw2592@columbia.edu  
+**OH:** Thursdays 4:50-5:50pm at Watson Hall at Columbia University Room 610.  
+Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
+(To schedule a longer session, please book multiple consecutive time slots.)
 
-**TA:** Nikira Walter <naw2146@columbia.edu>
-
-See **Ed** for office hours
+**TA:** Nikira Walter naw2146@columbia.edu  
+**OH:** Mondays 9:45am - 11:45am at School of Arts and Sciences at Columbia University, Student Lounge on the 6th Floor.
 
 ### **Grading**
 
