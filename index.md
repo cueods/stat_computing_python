@@ -43,7 +43,7 @@ title: Statistical Computing and Introduction to Data Science
 
 ## **Course Timeline**
 
-**Note:** *I reserve the right to change the ordering and the content for the course throughout the semester.*
+**Note:** *We reserve the right to change the ordering and the content for the course throughout the semester.*
 
 **Prior to the first class, you should do the following (mandatory):**
 Install Jupyter Notebook via Anaconda (Recommended for Beginners).
