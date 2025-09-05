@@ -3,63 +3,180 @@ layout: default
 title: Python Concepts
 ---
 
-<h1>Python Concepts for Statistical Computing</h1>
+<h1>Learning Python from the Data Perspective</h1>
 
-<h2>Core Programming Concepts</h2>
+<p>In contrast to most programming tutorials, these notes will teach you Python from a data perspective rather than a computer science perspective. We will leverage examples in Tech whenever possible.</p>
 
-<h3>Python Concepts 1-4: Basics</h3>
-<ul>
-  <li><strong>Concept 1:</strong> Python as a calculator - Basic arithmetic operations</li>
-  <li><strong>Concept 2:</strong> Variables and assignment</li>
-  <li><strong>Concept 3:</strong> Data types (int, float, string, boolean)</li>
-  <li><strong>Concept 4:</strong> Basic operations and expressions</li>
-</ul>
+<h2>Python Concepts Table</h2>
 
-<h3>Python Concepts 5-8: Data Structures</h3>
-<ul>
-  <li><strong>Concept 5:</strong> Lists and indexing</li>
-  <li><strong>Concept 6:</strong> Numpy arrays</li>
-  <li><strong>Concept 7:</strong> For loops and iteration</li>
-  <li><strong>Concept 8:</strong> Subsetting and slicing</li>
-</ul>
-
-<h3>Python Concepts 9-12: Control Flow and Functions</h3>
-<ul>
-  <li><strong>Concept 9:</strong> Conditional statements (if/else)</li>
-  <li><strong>Concept 10:</strong> Objects and methods</li>
-  <li><strong>Concept 11:</strong> Functions and scope</li>
-  <li><strong>Concept 12:</strong> Pandas DataFrames</li>
-</ul>
-
-<h3>Python Concepts 13-16: Data Analysis</h3>
-<ul>
-  <li><strong>Concept 13:</strong> Regular expressions</li>
-  <li><strong>Concept 14:</strong> Data visualization with matplotlib</li>
-  <li><strong>Concept 15:</strong> Summary statistics</li>
-  <li><strong>Concept 16:</strong> Data exploration techniques</li>
-</ul>
-
-<h3>Python Concepts 17-20: Advanced Topics</h3>
-<ul>
-  <li><strong>Concept 17:</strong> APIs and web data</li>
-  <li><strong>Concept 18:</strong> Statistical modeling</li>
-  <li><strong>Concept 19:</strong> Optimization algorithms</li>
-  <li><strong>Concept 20:</strong> SQL and databases</li>
-</ul>
-
-<h3>Python Concepts 21-24: File I/O and Data Engineering</h3>
-<ul>
-  <li><strong>Concept 21:</strong> File input/output operations</li>
-  <li><strong>Concept 22:</strong> Error handling</li>
-  <li><strong>Concept 23:</strong> Working with different file formats</li>
-  <li><strong>Concept 24:</strong> Data wrangling and nested structures</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0" style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #667eea; color: white;">
+      <th>Concept</th>
+      <th>Programming Example</th>
+      <th>Use Case Example</th>
+      <th>Statistics Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/interacting_with_python.html" target="_blank"><strong>1. Interacting with Python and your files</strong></a></td>
+      <td><code>python hello.py</code></td>
+      <td>Your files and programs are located on different "paths/folders" on your computer. Modern computer interfaces abstract this concept away which can confuse beginning programmers.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/python_basic_syntax.html" target="_blank"><strong>2. Basics syntax - interacting with the REPL</strong></a></td>
+      <td><code>1 + 1  # works!<br>    1 + 1 # fails</code></td>
+      <td>Expectations in interacting with Python after each command</td>
+      <td>Makes sense: $$\sum_{i=1}^{10} i$$<br>Doesn't make sense: $$i \sum_{i=1}^{10}$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/variables.html" target="_blank"><strong>3. Assigning variables</strong></a></td>
+      <td><code>n = 10<br>print(n)<br>sum(range(n))</code></td>
+      <td>N is used to estimate the cost of sampling, the uncertainty of our hypothetical sample average, and to calculate the sample average. We want the same value used throughout so we give it a name, the sample size.</td>
+      <td>$$n = 10$$<br>$$\sum_{i=1}^n i = \sum_{j=1}^n j$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/simple_data_types.html" target="_blank"><strong>4. Simple and single-valued data types</strong></a></td>
+      <td><code>demo_num = 1<br>demo_str = "1"<br>demo_bool = True</code></td>
+      <td>Data can be numbers or text, we handle them differently so we have data types for functions to treat them differently too.</td>
+      <td>$$y \in \mathbb{R}, x \in \{0, 1\}$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/container_data_types.html" target="_blank"><strong>5. Simple and multi-valued data types</strong></a></td>
+      <td><code>a_list = [1, 2, '3']<br>a_dict = {'a': 1, 'b': 2}<br>a_tuple = (1, 2, 3)</code></td>
+      <td>We need to differentiate a single value from a collection of data.</td>
+      <td>$$y = 1, x = \{1, 2, 3\}$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/call_functions.html" target="_blank"><strong>6. Calling functions</strong></a></td>
+      <td><code>min(3, -1)<br>sum([1, 2, -1])</code></td>
+      <td>We want to wrap up a collection of commands into a single call with certain inputs and outputs.</td>
+      <td>$$f:\mathbb{R}^p \to \mathbb{R}$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/loops.html" target="_blank"><strong>7. Control flow - for-loops</strong></a></td>
+      <td><code>for i in range(3):<br>&nbsp;&nbsp;&nbsp;&nbsp;print(i)</code></td>
+      <td>How do we ask a computer to repeat its tasks?</td>
+      <td>$$\forall i, f(x_i)$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/packages.html" target="_blank"><strong>8. Importing packages</strong></a></td>
+      <td><code>import math<br>math.log(1)</code></td>
+      <td>To leverage other people's code, we often source in their packages.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/ifelse.html" target="_blank"><strong>9. if/else and exceptions</strong></a></td>
+      <td><code>if 'a' in 'Broadway':<br>&nbsp;&nbsp;&nbsp;&nbsp;print('Broadway with an "a"')</code></td>
+      <td>When the code changes behavior under different conditions</td>
+      <td>$$f(x)=\left\{ \begin{array}{ccc} 0 & x < \theta \\ x & x \geq \theta \end{array} \right\}$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/load_write_files.html" target="_blank"><strong>10. Reading and writing data to files</strong></a></td>
+      <td><code>x = np.loadtxt('demo.csv', delimiter=',')<br>y = pd.read_csv('demo.csv')</code></td>
+      <td>Getting data loaded and written to and from files</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/numpy.html" target="_blank"><strong>11. Numpy</strong></a></td>
+      <td><code>import numpy as np<br>demo = np.array([[1, 2, 3], [4, 5, 6]])<br>demo.reshape(-1, 2)</code></td>
+      <td>The foundational mathematics package that offers many features similar to R's vectors.</td>
+      <td>$$X(X^TX)^{-1}X$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/pandas.html" target="_blank"><strong>12. Pandas</strong></a></td>
+      <td><code>import pandas as pd<br>pd.DataFrame([{'sex': 'M', 'score': 2}, {'sex': 'F', 'score': 8}])</code></td>
+      <td>Python needed something like R's data frames that could handle multiple types of data in a tabular format</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/regular_expression.html" target="_blank"><strong>13. Text manipulation and regular expression</strong></a></td>
+      <td><code>import re<br>re.compile('[A-Z][a-z]+').search('Python')</code></td>
+      <td>How can we express general rules in text like how proper nouns start with a capital letter followed by one or more lower-cased letters.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/mapping.html" target="_blank"><strong>14. Mapping functions instead of looping</strong></a></td>
+      <td><code>from functools import reduce<br>abs_nums = map(abs, [-1, 2, 0])<br>tot_mag = reduce(lambda x, y: x + y, abs_nums)</code></td>
+      <td>How can we separate the parallizable operations from the ones that cannot?</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/date_time.html" target="_blank"><strong>15. Date and Time Objects</strong></a></td>
+      <td><code>import datetime<br>datetime.datetime.now()</code></td>
+      <td>How can we handle date/time values since they have different conventions from usual numbers. E.g. 60 secs is in 1 minute.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/plotting.html" target="_blank"><strong>16. Data visualization with seaborn</strong></a></td>
+      <td><code>import matplotlib.pyplot as plt<br>import numpy as np<br>import seaborn as sns<br>x = np.linspace(-1, 1, 100)<br>y = (0.1 * x - 0.5 * np.power(x, 2) + np.random.normal(size=len(x), scale=0.03))<br>sns.relplot(x, y)<br>plt.show()</code></td>
+      <td>A picture is worth a thousand words</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/api.html" target="_blank"><strong>17. Interacting with APIs</strong></a></td>
+      <td>-</td>
+      <td>To interact with machines, especially online, there is a standard protocol to give and get data.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/model_fitting.html" target="_blank"><strong>18. sklearn and fitting models</strong></a></td>
+      <td><code>from sklearn.linear_model import LinearRegression<br>ols = LinearRegression().fit(X, Y)<br>pred = ols.predict(X2)</code></td>
+      <td>Models are mathematical instruments that can help scientist understand patterns in the data, understand how the world works, or to simply predict future outcomes. These models are tuned and validated using data. This module talks about fitting different models with data using sklearn.</td>
+      <td>$$Y = f(X, \beta) + \epsilon$$<br>$$\hat{\beta} = \arg\min_\beta Loss(Y, \hat{Y}(\beta))$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/optimization.html" target="_blank"><strong>19. Basic Optimization</strong></a></td>
+      <td><code>from scipy.optimize import minimize<br>min_out = minimize(obj)</code></td>
+      <td>To fit a model to data, we need to define what a good model (or bad model) looks like. Finding the least bad or best model is an optimization exercise.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/sql.html" target="_blank"><strong>20. SQL</strong></a></td>
+      <td><code>SELECT COUNT(DISTINCT(customer_id)) AS uniq_users FROM orders</code></td>
+      <td>Data often sits in a database and SQL is one of the most popular languages we use to query data from databases. Python3 has a built-in library that allows us to interface with SQLite.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/random_functions.html" target="_blank"><strong>21. Random functions</strong></a></td>
+      <td><code>import random<br>random.gauss(0, 1)<br>random.choice(['heads', 'tails'])</code></td>
+      <td>To sample from a large list of items, we need something that can generate pseudo-randomness.</td>
+      <td>$$Y \sim F$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/monte_carlo.html" target="_blank"><strong>22. Monte Carlo</strong></a></td>
+      <td><code>import numpy as np<br>maxs = []<br>for _ in range(1000):<br>&nbsp;&nbsp;&nbsp;&nbsp;y = np.random.normal(size=5)<br>&nbsp;&nbsp;&nbsp;&nbsp;maxs.append(np.max(y))<br>np.mean(maxs)</code></td>
+      <td>Certain probabilistic quantities are well defined but do not have a closed form solution or its exact value is not computationally feasible to perform. This is when we can approximate it using simulations.</td>
+      <td>$$E(Y) \approx \frac{1}{n}\sum_i Y_i$$</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/pseudo_code.html" target="_blank"><strong>23. Pseudo-code</strong></a></td>
+      <td><code># For every job description<br>#   - check whether it sponsors H1B<br>#   - scrape its description</code></td>
+      <td>Before you write code, you want to plan out your code, writing pseudo-code is a good way to start this practice</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/wrangle.html" target="_blank"><strong>24. Wrangling</strong></a></td>
+      <td><code>import pandas as pd<br>health = pd.DataFrame([{'id': 1, 'height': 180, 'weight': 80}, {'id': 2, 'height': 150}])<br>pd.melt(health, id_vars='id', value_vars=['height', 'weight'])</code></td>
+      <td>Storing data requires flexibility and analyzing data requires structure, e.g. every resume should have their GPA. The translation between these two to facilitate different tasks is called data wrangling.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://leewtai.github.io/courses/stat_computing/lectures/python_mds/debug.html" target="_blank"><strong>25. Debugging and making a minimum reproducible example</strong></a></td>
+      <td><code># There's an error somewhere below!<br>conditions = [True, False]<br>if conditions:<br>&nbsp;&nbsp;&nbsp;&nbsp;print('We have a True')<br>if np.array(conditions):<br>&nbsp;&nbsp;&nbsp;&nbsp;print('We detected another True')</code></td>
+      <td>Everyone makes mistakes when coding. What are best practices to resolve bugs?</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Resources</h2>
 <ul>
-  <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a></li>
-  <li><a href="https://swcarpentry.github.io/python-novice-inflammation/">Software Carpentry Python Tutorial</a></li>
-  <li><a href="https://www.learnpython.org/">LearnPython.org</a></li>
+  <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a></li>
+  <li><a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">Software Carpentry Python Tutorial</a></li>
+  <li><a href="https://www.learnpython.org/" target="_blank">LearnPython.org</a></li>
 </ul>
 
-<p><em>Detailed notes and examples for each concept will be added throughout the semester.</em></p>
+<p><em>Each concept above links to detailed explanations and examples from <a href="https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html" target="_blank">Wayne's course materials</a>.</em></p>
