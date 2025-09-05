@@ -70,4 +70,3 @@ Combine these methods for exponential growth:
 * **For advanced learners:** Emphasize contrast + articulation + case studies.
 
 ---
-*This page provides insight into Dr. Wang's background and teaching methodology.*
