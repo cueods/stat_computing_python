@@ -6,17 +6,13 @@ url: "https://mingzhoujin.github.io"
 # Build settings
 markdown: kramdown
 theme: minima
-highlighter: rouge
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 # Navigation
 header_pages:
   - homework/index.md
-  - courses/stat_computing/lectures/learning_python_intro.html
-  - setup/conda_and_navigator_setup.html
   - academic-honesty.md
 
 # Exclude from processing
