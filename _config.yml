@@ -12,7 +12,6 @@ plugins:
 
 # Navigation
 header_pages:
-  - homework/index.md
   - courses/stat_computing/lectures/learning_python_intro.html
   - instructor-bio.md
   - academic-honesty.md
