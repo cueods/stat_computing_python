@@ -14,9 +14,9 @@ plugins:
 header_pages:
   - homework/index.md
   - courses/stat_computing/lectures/learning_python_intro.html
-  - setup/conda_and_navigator_setup.html
   - instructor-bio.md
   - academic-honesty.md
+  - setup/conda_and_navigator_setup.html
 
 # Exclude from processing
 exclude:
