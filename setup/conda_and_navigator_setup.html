@@ -1,0 +1,73 @@
+---
+layout: default
+title: Conda and Jupyter Setup Guide
+---
+
+<h1>Setting Up Your Python Environment</h1>
+
+<h2>Installing Anaconda/Miniconda</h2>
+
+<h3>Option 1: Anaconda (Recommended for beginners)</h3>
+<ol>
+  <li>Visit <a href="https://www.anaconda.com/products/individual">Anaconda Individual Edition</a></li>
+  <li>Download the installer for your operating system</li>
+  <li>Run the installer and follow the prompts</li>
+  <li>Accept the default settings unless you have specific requirements</li>
+</ol>
+
+<h3>Option 2: Miniconda (Lighter installation)</h3>
+<ol>
+  <li>Visit <a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda</a></li>
+  <li>Download the installer for your operating system</li>
+  <li>Run the installer and follow the prompts</li>
+</ol>
+
+<h2>Setting Up Jupyter Notebook Environment</h2>
+
+<h3>Command Line Setup</h3>
+<ol>
+  <li>Open Terminal (Mac/Linux) or Anaconda Prompt (Windows)</li>
+  <li>Create a new environment for the course:
+    <pre><code>conda create -n stat_computing python=3.9</code></pre>
+  </li>
+  <li>Activate the environment:
+    <pre><code>conda activate stat_computing</code></pre>
+  </li>
+  <li>Install required packages:
+    <pre><code>conda install jupyter pandas numpy matplotlib seaborn scikit-learn</code></pre>
+  </li>
+  <li>Launch Jupyter Notebook:
+    <pre><code>jupyter notebook</code></pre>
+  </li>
+</ol>
+
+<h3>Verification</h3>
+<p>Test your installation by creating a new notebook and running:</p>
+<pre><code>import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+print("Setup successful!")
+</code></pre>
+
+<h2>Alternative: Google Colab</h2>
+<p>If you prefer not to install software locally, you can use <a href="https://colab.research.google.com/">Google Colab</a>:</p>
+<ol>
+  <li>Go to <a href="https://colab.research.google.com/">colab.research.google.com</a></li>
+  <li>Sign in with your Google account</li>
+  <li>Create a new notebook</li>
+  <li>Most packages are pre-installed</li>
+</ol>
+
+<h2>Troubleshooting</h2>
+<ul>
+  <li><strong>Path issues:</strong> Make sure Anaconda is added to your PATH</li>
+  <li><strong>Package conflicts:</strong> Create a fresh environment if you encounter issues</li>
+  <li><strong>Jupyter not opening:</strong> Try <code>python -m jupyter notebook</code></li>
+</ul>
+
+<h2>Additional Resources</h2>
+<ul>
+  <li><a href="https://conda.io/projects/conda/en/latest/user-guide/getting-started.html">Conda User Guide</a></li>
+  <li><a href="https://jupyter-notebook.readthedocs.io/en/stable/">Jupyter Notebook Documentation</a></li>
+</ul>
