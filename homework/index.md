@@ -14,31 +14,31 @@ title: Assignments
 
 ## Assignment Schedule
 
-### Homework 1 - Due: September 18, 2025
+### Homework 1
 **Topics:** Python basics, variables, and simple calculations
 - Basic Python operations
 - Variables and data types
 - Simple data manipulation
 
-### Homework 2 - Due: October 2, 2025
+### Homework 2
 **Topics:** Data structures and pandas
 - Working with lists and arrays
 - Introduction to pandas DataFrames
 - Basic data exploration
 
-### Homework 3 - Due: October 16, 2025
+### Homework 3
 **Topics:** Control flow and functions
 - For loops and conditional statements
 - Writing custom functions
 - File input/output operations
 
-### Homework 4 - Due: November 13, 2025
+### Homework 4
 **Topics:** Data analysis and visualization
 - Statistical analysis with pandas
 - Data visualization with matplotlib
 - Model building basics
 
-### Homework 5 - Due: November 30, 2025
+### Homework 5
 **Topics:** Advanced topics
 - Optimization and simulation
 - Bootstrap and permutation tests
