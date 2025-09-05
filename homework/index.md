@@ -61,4 +61,4 @@ title: Assignments
 
 ## Academic Integrity
 
-All work must be your own. You may discuss concepts with classmates but must write your own code. Plagiarism will result in course failure. See the [Columbia CS Academic Honesty policy](https://www.cs.columbia.edu/education/honesty/) for details.
+All work must be your own. You may discuss concepts with classmates but must write your own code. Plagiarism will result in course failure. See the [Columbia CS Academic Honesty policy](../academic-honesty.html) for details.
