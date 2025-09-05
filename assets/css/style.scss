@@ -22,11 +22,6 @@
   color: #f0f0f0 !important;
 }
 
-.site-nav {
-  float: left !important;
-  line-height: 54px;
-}
-
 .site-nav .page-link {
   color: white !important;
   font-weight: 500;
@@ -34,33 +29,6 @@
 
 .site-nav .page-link:hover {
   color: #f0f0f0 !important;
-}
-
-/* Force navigation to align left */
-.site-header .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.site-nav .trigger {
-  display: flex !important;
-  gap: 20px;
-}
-
-@media screen and (max-width: 600px) {
-  .site-nav {
-    position: absolute;
-    top: 9px;
-    right: 15px;
-    background-color: transparent;
-    border: none;
-    text-align: left;
-  }
-  
-  .site-nav .trigger {
-    display: block !important;
-  }
 }
 
 /* Main content styling */
