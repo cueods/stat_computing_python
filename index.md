@@ -95,12 +95,12 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
    * **Location:** TBD
 
 * **Thursdays** Prof. Wang 3:50pm - 5:50pm  
-   * **Location:** Watson Hall at Columbia University Room 610.  
+   * **Location:** Room 610, Watson Hall at Columbia University.  
    * Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
    * (To schedule a longer session, please book multiple consecutive time slots.)
 
 * **Fridays** Prof Goodrich 2:00pm - 5:00pm  
-   * **Location:** Watson Hall at Columbia University Room 608.  
+   * **Location:** Room 608, Watson Hall at Columbia University.  
    * Please reserve your slots from the following link: https://calendar.app.google/8DTmEBK4SpWv7ceq6
 
 ### **Grading**
