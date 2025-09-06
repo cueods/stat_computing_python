@@ -106,6 +106,13 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 
 If your final grade is in [93-97), you will earn at least an A, [90-93) will earn at least an A-, [87-90) will earn at least a B+, etc. A grading curves may occur depending on the class performance but I will not curve downwards. I will not give out A+ for this class.
 
+#### **Participation (10%)**
+
+* In class participation
+* Online question posting (non-private) and answers are all ways to achieve this
+* I will reach out after the midterm if you are at risk of missing some points here
+* **No class absences allowed**
+
 #### **Homeworks (25%)**
 
 * **Late homeworks will receive 0 credit**
@@ -115,13 +122,6 @@ If your final grade is in [93-97), you will earn at least an A, [90-93) will ear
 
 * Midterm (28%)
 * Final (37%)
-
-#### **Participation (10%)**
-
-* In class participation
-* Online question posting (non-private) and answers are all ways to achieve this
-* I will reach out after the midterm if you are at risk of missing some points here
-* **No class absences allowed**
 
 #### **Exam Accommodations**
 
