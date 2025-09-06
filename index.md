@@ -73,35 +73,35 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 ### **Teaching Team**
 
 #### **Section 1**
-**Instructor:** Benjamin Goodwich Ph.D. benjamin.goodrich@columbia.edu  
-**Class time:** Fridays 10:10am - 12:40pm  
-**Location:** 417 INTERNATIONAL AFFAIRS BLDG
+* **Instructor:** Benjamin Goodwich Ph.D. benjamin.goodrich@columbia.edu  
+* **Class time:** Fridays 10:10am - 12:40pm  
+* **Location:** 417 INTERNATIONAL AFFAIRS BLDG
 
 #### **Section 2**
-**Instructor:** Haiyuan Wang Ph.D. hw2592@columbia.edu  
-**Class time:** Thursdays 6:10pm - 8:40pm  
-**Location:** 501 Schermerhorn
+* **Instructor:** Haiyuan Wang Ph.D. hw2592@columbia.edu  
+* **Class time:** Thursdays 6:10pm - 8:40pm  
+* **Location:** 501 Schermerhorn
 
 #### **TAs:** 
-Nikira Walter naw2146@columbia.edu  
-Yizi Zhang yz4123@columbia.edu
+* Nikira Walter naw2146@columbia.edu  
+* Yizi Zhang yz4123@columbia.edu
 
 #### **Office Hours:**
 
-**Mondays** Nikira 9:45am - 11:45am  
-**Location:** Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
+* **Mondays** Nikira 9:45am - 11:45am  
+   * **Location:** Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
 
-**Tuesdays** Yizi TBD  
-**Location:** TBD
+* **Tuesdays** Yizi TBD  
+   * **Location:** TBD
 
-**Thursdays** Prof. Wang 3:50pm - 5:50pm  
-**Location:** Watson Hall at Columbia University Room 610.  
-Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
-(To schedule a longer session, please book multiple consecutive time slots.)
+* **Thursdays** Prof. Wang 3:50pm - 5:50pm  
+   * **Location:** Watson Hall at Columbia University Room 610.  
+   * Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
+   * (To schedule a longer session, please book multiple consecutive time slots.)
 
-**Fridays** Prof Goodrich 2:00pm - 5:00pm  
-**Location:** Watson Hall at Columbia University Room 608.  
-Please reserve your slots from the following link: https://calendar.app.google/8DTmEBK4SpWv7ceq6
+* **Fridays** Prof Goodrich 2:00pm - 5:00pm  
+   * **Location:** Watson Hall at Columbia University Room 608.  
+   * Please reserve your slots from the following link: https://calendar.app.google/8DTmEBK4SpWv7ceq6
 
 ### **Grading**
 
