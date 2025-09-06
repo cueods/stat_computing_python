@@ -111,8 +111,6 @@ If your final grade is in [93-97), you will earn at least an A, [90-93) will ear
 
 * **Late homeworks will receive 0 credit**
 * **No make-up homeworks** will be granted even if you registered late to the class
-* If you want to learn how to use Google Colab, follow these instructions
-* Please read these important things related to submitting homeworks on Ed
 
 #### **Exams (65%)**
 
