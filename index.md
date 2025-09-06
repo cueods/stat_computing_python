@@ -31,8 +31,8 @@ title: Statistical Computing and Introduction to Data Science
 ## **Textbooks and References**
 
 * **Google!** *(Your best friend for debugging)*
-* [Python concept notes](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Python concept notes (PC)](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
+* [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * **Basics only** - [Programming with Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
 * [LearningPython.org](https://www.learnpython.org/)
 * **Data engineering references** *(not covered in this class)*:  
