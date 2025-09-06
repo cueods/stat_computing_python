@@ -23,7 +23,7 @@ Unless specifically authorized by the instructor, **all coursework is to be done
 
 An instructor may refine academic honesty as appropriate for the course. As an example, instructors may specify rules regarding the conditions under which work done by other people, or by the student previously, can be incorporated into an assignment, project, or exam. Violations will be subject to the standard academic and disciplinary penalties. If group work is permitted by an instructor, academic honesty policies continue to apply on a student-by-student basis; the full team is not necessarily held responsible for an individual's violations.
 
-Instructors are asked to promulgate and permit student exploration of the Department's policy at the beginning of every course. They are to announce in class or by website that, by taking the course, the student is presumed to be aware of the Departmental policy, and that the text of the policy can be found on the Department's web pages. However, regardless of any question of instructor announcement or student discussion, **student understanding of the policy is assumed**.
+Instructors are asked to promulgate and permit student exploration of the Department's policy at the beginning of every course. They are to announce in class or by website that, by taking the course, the student is presumed to be aware of the Departmental policy, and that the text of the policy can be found on the Department's web pages. However, regardless of any question of instructor announcement or student discussion, student understanding of the policy is assumed.
 
 The Academic Committee maintains for instructor reference a secure list of academic honesty violators, which records their academic penalties, and also, when permitted by the student's school, their disciplinary penalties. Among other penalties, students found in violation of academic honesty rules by the deans may be prohibited from serving as departmental Teaching Assistants, from receiving departmental financial support, and from being recognized with departmental awards.
 
@@ -39,7 +39,7 @@ If an instructor suspects academic dishonesty, the instructor contacts the stude
 - **Second and subsequent offenses:** Failure of the course
 - **Severe infractions:** Instructor may immediately fail a student
 
-Students may appeal academic penalties in writing to the Academic Committee within **10 business days**, or in those cases investigated by the deans, within 10 business days of the deans' decision.
+Students may appeal academic penalties in writing to the Academic Committee within 10 business days, or in those cases investigated by the deans, within 10 business days of the deans' decision.
 
 The deans may pursue a separate investigation and determine appropriate disciplinary action, which may include **suspension or expulsion**.
 

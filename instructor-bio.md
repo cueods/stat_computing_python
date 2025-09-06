@@ -20,59 +20,59 @@ Professor Goodrich is currently a full-time lecturer in the Department of Statis
 # **Instructor's Teaching Philosophy**
 
 ### **1. Learn by Imitation: Follow Live Coding Demos**
-**Absorb techniques through observation.**
+Absorb techniques through observation.
 
-* **Why it works:** Mirrors how humans naturally learn complex skills (e.g., language or music).
-* **How to apply:**
+* Why it works: Mirrors how humans naturally learn complex skills (e.g., language or music).
+* How to apply:
   * Shadow experts via platforms like Kaggle, YouTube, or pair programming.
   * Pause demos to predict the next step, then compare.
-* **Example:** Recreate a GitHub project's data pipeline while noting design choices.
+* Example: Recreate a GitHub project's data pipeline while noting design choices.
 
 ### **2. Learn by Repeat: Reinforce Through Practice**
-**Build muscle memory for coding.**
+Build muscle memory for coding.
 
-* **Why it works:** Strengthens neural pathways (spaced repetition).
-* **How to apply:**
+* Why it works: Strengthens neural pathways (spaced repetition).
+* How to apply:
   * Reimplement projects without referencing past code.
   * Participate in daily coding challenges (LeetCode, Advent of Code).
-* **Example:** Rebuild a web scraper weekly, adding new features each time.
+* Example: Rebuild a web scraper weekly, adding new features each time.
 
 ### **3. Learn by Contrast: Compare Methods**
-**Develop critical thinking by evaluating trade-offs.**
+Develop critical thinking by evaluating trade-offs.
 
-* **Why it works:** Forces analysis of why one approach outperforms another.
-* **How to apply:**
+* Why it works: Forces analysis of why one approach outperforms another.
+* How to apply:
   * Benchmark alternatives (e.g., for loops vs. numpy vectorization).
   * Debate pros/cons (readability vs. scalability).
-* **Example:** Solve a sorting problem with both quicksort and mergesort, then analyze edge cases.
+* Example: Solve a sorting problem with both quicksort and mergesort, then analyze edge cases.
 
 ### **4. Learn by Articulation: Debug and Explain**
-**Solidify understanding through teaching.**
+Solidify understanding through teaching.
 
-* **Why it works:** Uncovers gaps in knowledge (Feynman Technique).
-* **How to apply:**
+* Why it works: Uncovers gaps in knowledge (Feynman Technique).
+* How to apply:
   * Write detailed code comments or blog posts.
   * Record yourself explaining a complex function.
-* **Example:** Document how a machine learning model's hyperparameters affect outcomes.
+* Example: Document how a machine learning model's hyperparameters affect outcomes.
 
 ### **5. Learn by Knowing the Application (Case Studies)**
-**Connect theory to real-world impact.**
+Connect theory to real-world impact.
 
-* **Why it works:** Context motivates retention and creativity.
-* **How to apply:**
+* Why it works: Context motivates retention and creativity.
+* How to apply:
   * Study industry examples (e.g., how Netflix uses A/B testing).
   * Reverse-engineer solutions from papers or tech talks.
-* **Example:** Analyze how a financial model predicted market crashes, then replicate its core logic.
+* Example: Analyze how a financial model predicted market crashes, then replicate its core logic.
 
 ## **Framework Synergy**
 
 Combine these methods for exponential growth:
 
-1. **Imitate** a case study's solution → **Contrast** it with alternatives.
-2. **Articulate** the reasoning → **Repeat** the process in new contexts.
+1. Imitate a case study's solution → Contrast it with alternatives.
+2. Articulate the reasoning → Repeat the process in new contexts.
 
 ### **Optional Adaptations:**
-* **For beginners:** Focus on imitation + repetition.
-* **For advanced learners:** Emphasize contrast + articulation + case studies.
+* For beginners: Focus on imitation + repetition.
+* For advanced learners: Emphasize contrast + articulation + case studies.
 
 ---
