@@ -8,7 +8,7 @@ Visit: [https://mingzhoujin.github.io/stats_computing_python](https://mingzhouji
 ## Course Information
 - **Course**: Statistical Computing and Introduction to Data Science
 - **Code**: GR5206 / 4206
-- **Semester**: Fall 2024
+- **Semester**: Fall 2025
 - **Class Time**: F 10:10am - 12:40pm
 - **Location**: 301 Uris
 
