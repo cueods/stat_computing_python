@@ -151,7 +151,7 @@ For this course, students are not required to have testing forms or accommodatio
    * To each other: summarize the conversation to ensure you're listening and think constructively before criticizing
 * Academic honesty: https://www.cs.columbia.edu/education/honesty/
 
-### **Acknowledgement**
+## **Acknowledgement**
 
 A lot of these materials are based off the materials from Prof Thibault Vatter, Prof Gabriel Young, Prof Wayne Lee, and Prof Yongchan Kwon.
 
