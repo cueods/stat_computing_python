@@ -7,34 +7,34 @@ title: Statistical Computing and Introduction to Data Science
 
 ## **Learning Outcomes**
 
-* **Understand basic programming**
+* Understand basic programming
    * Manipulate data with different structures  
    * Control flow and logic
    * Functions and modular programming
-* **Explore data via visualization**
-* **Study statistical concepts via simulations**
-* **Automate tasks with programming**
-* **Understand basic optimization**
+* Explore data via visualization
+* Study statistical concepts via simulations
+* Automate tasks with programming
+* Understand basic optimization
 
 ## **Prerequisites**
 
-* **An introductory statistics class**
+* An introductory statistics class
    * Basic probability distributions (e.g. Gaussian, binomial distributions and their likelihoods)  
    * Basic hypothesis testing (e.g. t-test)  
    * Summary statistics  
    * Histograms, boxplots, etc
-* **Multivariate calculus**
+* Multivariate calculus
    * Derivatives and functions
-* **Matrix operations** and inverses of matrices
-* You should be at least co-enrolled in a **modeling class like regression**
+* Matrix operations and inverses of matrices
+* You should be at least co-enrolled in a modeling class like regression
 
 ## **Textbooks and References**
 
 * **Google!** *(Your best friend for debugging)*
-* [**Python concept notes**](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
-* [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Python concept notes](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * **Basics only** - [Programming with Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
-* [**LearningPython.org**](https://www.learnpython.org/)
+* [LearningPython.org](https://www.learnpython.org/)
 * **Data engineering references** *(not covered in this class)*:  
    * *Designing Data-Intensive Applications* by Martin Kleppmann (available in NYPL)  
    * *System Design Interview - An Insider's Guide* by Alex Xu
@@ -73,14 +73,14 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 ### **Teaching Team**
 
 #### **Section 1**
-* **Instructor:** Benjamin Goodwich Ph.D. benjamin.goodrich@columbia.edu  
-* **Class time:** Fridays 10:10am - 12:40pm  
-* **Location:** 417 INTERNATIONAL AFFAIRS BLDG
+* Instructor: Benjamin Goodwich Ph.D. benjamin.goodrich@columbia.edu  
+* Class time: Fridays 10:10am - 12:40pm  
+* Location: 417 INTERNATIONAL AFFAIRS BLDG
 
 #### **Section 2**
-* **Instructor:** Haiyuan Wang Ph.D. hw2592@columbia.edu  
-* **Class time:** Thursdays 6:10pm - 8:40pm  
-* **Location:** 501 Schermerhorn
+* Instructor: Haiyuan Wang Ph.D. hw2592@columbia.edu  
+* Class time: Thursdays 6:10pm - 8:40pm  
+* Location: 501 Schermerhorn
 
 #### **TAs:** 
 * Nikira Walter naw2146@columbia.edu  
@@ -89,18 +89,18 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 #### **Office Hours:**
 
 * **Mondays** Nikira 9:45am - 11:45am  
-   * **Location:** Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
+   * Location: Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
 
 * **Tuesdays** Yizi TBD  
-   * **Location:** TBD
+   * Location: TBD
 
 * **Thursdays** Prof. Wang 3:50pm - 5:50pm  
-   * **Location:** Room 610, Watson Hall at Columbia University.  
+   * Location: Room 610, Watson Hall at Columbia University.  
    * Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
    * (To schedule a longer session, please book multiple consecutive time slots.)
 
 * **Fridays** Prof Goodrich 2:00pm - 5:00pm  
-   * **Location:** Room 608, Watson Hall at Columbia University.  
+   * Location: Room 608, Watson Hall at Columbia University.  
    * Please reserve your slots from the following link: https://calendar.app.google/8DTmEBK4SpWv7ceq6
 
 ### **Grading**
@@ -111,18 +111,18 @@ If your final grade is in [93-97), you will earn at least an A, [90-93) will ear
 
 * **Late homeworks will receive 0 credit**
 * **No make-up homeworks** will be granted even if you registered late to the class
-* If you want to learn how to use **Google Colab**, follow these instructions
-* Please read these **important things** related to submitting homeworks on **Ed**
+* If you want to learn how to use Google Colab, follow these instructions
+* Please read these important things related to submitting homeworks on Ed
 
 #### **Exams (65%)**
 
-* **Midterm (28%)**
-* **Final (37%)**
+* Midterm (28%)
+* Final (37%)
 
 #### **Participation (10%)**
 
-* **In class participation**
-* **Online question posting** (non-private) and answers are all ways to achieve this
+* In class participation
+* Online question posting (non-private) and answers are all ways to achieve this
 * I will reach out after the midterm if you are at risk of missing some points here
 * **No class absences allowed**
 
@@ -144,16 +144,16 @@ For this course, students are not required to have testing forms or accommodatio
 
 * **Take chances!**  
    * Break the code in lecture *(it's how we learn!)*
-* **Give feedback** in office hours or e-mail, don't waste your time if you think a topic is not helpful
+* Give feedback in office hours or e-mail, don't waste your time if you think a topic is not helpful
 * **Participate and ask questions** - this is not easy!  
-   * **In class:** forecast what should be done, compare with what is happening, then summarize the difference  
-   * **Online:** describe what you observe, describe what you expect, communicate clearly  
-   * **To each other:** summarize the conversation to ensure you're listening and think constructively before criticizing
-* **Academic honesty:** https://www.cs.columbia.edu/education/honesty/
+   * In class: forecast what should be done, compare with what is happening, then summarize the difference  
+   * Online: describe what you observe, describe what you expect, communicate clearly  
+   * To each other: summarize the conversation to ensure you're listening and think constructively before criticizing
+* Academic honesty: https://www.cs.columbia.edu/education/honesty/
 
 ### **Acknowledgement**
 
-A lot of these materials are based off the materials from **Prof Thibault Vatter**, **Prof Gabriel Young**, **Prof Wayne Lee**, and **Prof Yongchan Kwon**.
+A lot of these materials are based off the materials from Prof Thibault Vatter, Prof Gabriel Young, Prof Wayne Lee, and Prof Yongchan Kwon.
 
 ---
 *Published using **GitHub Pages***
