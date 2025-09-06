@@ -72,18 +72,18 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 ### **Teaching Team**
 
 #### **Section 1**
-* Instructor: Benjamin Goodwich Ph.D. benjamin.goodrich@columbia.edu  
+* Instructor: Benjamin Goodwich Ph.D., benjamin.goodrich@columbia.edu  
 * Class time: Fridays 10:10am - 12:40pm  
 * Location: 417 INTERNATIONAL AFFAIRS BLDG
 
 #### **Section 2**
-* Instructor: Haiyuan Wang Ph.D. hw2592@columbia.edu  
+* Instructor: Haiyuan Wang Ph.D., hw2592@columbia.edu  
 * Class time: Thursdays 6:10pm - 8:40pm  
 * Location: 501 Schermerhorn
 
 #### **TAs:** 
-* Nikira Walter naw2146@columbia.edu  
-* Yizi Zhang yz4123@columbia.edu
+* Nikira Walter, naw2146@columbia.edu  
+* Yizi Zhang, yz4123@columbia.edu
 
 #### **Office Hours:**
 
