@@ -87,21 +87,14 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 
 #### **Office Hours:**
 
-* **Mondays** Nikira 9:45am - 11:45am  
-   * Location: Student Lounge on the 6th Floor, School of Arts and Sciences at Columbia University.
+| 星期 | 时间 | 教师/助教 | 地点 | Zoom链接 | 预约链接 |
+|------|------|-----------|------|----------|----------|
+| Monday | 9:45am - 11:45am | Nikira | Student Lounge, 6th Floor, School of Arts and Sciences | - | - |
+| Tuesday | 3:00pm - 5:00pm | Prof Goodrich | TBD | [Zoom链接](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | [预约链接](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| Tuesday | TBD | Yizi | TBD | - | - |
+| Thursday | 3:50pm - 5:50pm | Prof Wang | Room 610, Watson Hall | - | [预约链接](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
 
-* **Tuesdays** Prof Goodrich 3:00pm - 5:00pm  
-   * Location: TBD
-   * Zoom link: https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1
-   * Please reserve your slots from the following link: https://calendar.app.google/8DTmEBK4SpWv7ceq6
-
-* **Tuesdays** Yizi TBD  
-   * Location: TBD
-
-* **Thursdays** Prof. Wang 3:50pm - 5:50pm  
-   * Location: Room 610, Watson Hall at Columbia University.  
-   * Please reserve your slots from the following link: https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting  
-   * (To schedule a longer session, please book multiple consecutive time slots.)
+**Note:** For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
 
 ### **Grading**
 
