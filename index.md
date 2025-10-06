@@ -84,17 +84,33 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 #### **TAs:** 
 * Nikira Walter, naw2146@columbia.edu  
 * Yizi Zhang, yz4123@columbia.edu
+* Ziming Zhang
+* Miao Zhou
+* Junshuo (Lance) Liu
+* Jiayi Zhu
+* Chen Wang
+* Shok Fei Yeung
 
 #### **Office Hours:**
 
-| Day | Time | Instructor/TA | Location | Zoom Link | Booking Link |
-|-----|------|---------------|----------|-----------|--------------|
-| Monday | 9:45am - 11:45am | Nikira | Student Lounge, 6th Floor, School of Arts and Sciences | - | - |
-| Tuesday | 3:00pm - 5:00pm | Prof Goodrich | TBD | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | [Booking Link](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
-| Tuesday | TBD | Yizi | TBD | - | - |
-| Thursday | 3:50pm - 5:50pm | Prof Wang | Room 610, Watson Hall | - | [Booking Link](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
+| Day | Time | Instructor/TA | Location | Booking Link |
+|-----|------|---------------|----------|--------------|
+| Monday | 2:00pm - 4:00pm | Nikira | Student Lounge, 6th Floor, SSW | - |
+| Monday | 5:00pm - 6:00pm | Ziming Zhang | Student Lounge, SSW | - |
+| Tuesday | 3:00pm - 5:00pm | Yizi Zhang | Online | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) |
+| Tuesday | 2:00pm - 5:00pm | Ben (Prof Goodrich) | Watson 612 / Online | - |
+| Wednesday | 2:00pm - 3:00pm | Miao Zhou | Student Lounge, 1st Floor, SSW | - |
+| Wednesday | 3:00pm - 4:30pm | Junshuo (Lance) Liu | Watson Hall General Lounge Area / Open Space | - |
+| Thursday | 1:00pm - 2:30pm | Jiayi Zhu | Student Lounge, 6th Floor, SSW / Online | [Calendly](https://calendly.com/jz3856-columbia/30min) |
+| Thursday | 3:50pm - 5:50pm | Haiyuan (Prof Wang) | Watson 610 | [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
+| Friday | 1:00pm - 3:00pm | Chen Wang | Student Lounge, 6th Floor, SSW / Online | - |
+| Friday | 4:15pm - 5:15pm | Shok Fei Yeung | Student Lounge, SSW | - |
+| Saturday | Break | - | - | - |
+| Sunday | Break | - | - | - |
 
-**Note:** For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
+**Notes:** 
+- For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
+- Some TAs may be available both in-person and online - check with them directly.
 
 ### **Grading**
 
