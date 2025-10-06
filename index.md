@@ -87,12 +87,12 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 
 #### **Office Hours:**
 
-| 星期 | 时间 | 教师/助教 | 地点 | Zoom链接 | 预约链接 |
-|------|------|-----------|------|----------|----------|
+| Day | Time | Instructor/TA | Location | Zoom Link | Booking Link |
+|-----|------|---------------|----------|-----------|--------------|
 | Monday | 9:45am - 11:45am | Nikira | Student Lounge, 6th Floor, School of Arts and Sciences | - | - |
-| Tuesday | 3:00pm - 5:00pm | Prof Goodrich | TBD | [Zoom链接](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | [预约链接](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| Tuesday | 3:00pm - 5:00pm | Prof Goodrich | TBD | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | [Booking Link](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
 | Tuesday | TBD | Yizi | TBD | - | - |
-| Thursday | 3:50pm - 5:50pm | Prof Wang | Room 610, Watson Hall | - | [预约链接](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
+| Thursday | 3:50pm - 5:50pm | Prof Wang | Room 610, Watson Hall | - | [Booking Link](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
 
 **Note:** For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
 
