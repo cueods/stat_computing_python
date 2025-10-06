@@ -98,7 +98,6 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 | Monday | 2:00pm - 4:00pm | Nikira | Student Lounge, 6th Floor, SSW | - |
 | Monday | 5:00pm - 6:00pm | Ziming Zhang | Student Lounge, 6th Floor, SSW | - |
 | Tuesday | 3:00pm - 5:00pm | Yizi Zhang | Online | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) |
-| Tuesday | 2:00pm - 5:00pm | Ben (Prof Goodrich) | Watson 612 / Online | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking Link](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
 | Wednesday | 2:00pm - 3:00pm | Jiayi Zhu | Student Lounge, 6th Floor, SSW / Online | [Calendly](https://calendly.com/jz3856-columbia/30min) |
 | Wednesday | 3:00pm - 4:30pm | Junshuo (Lance) Liu | Watson Hall General Lounge Area / Open Space | - |
 | Thursday | 2:00pm - 3:00pm | Miao Zhou | Student Lounge, 6th Floor, SSW | - |
