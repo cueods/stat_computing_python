@@ -105,8 +105,6 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 | Thursday | 3:50pm - 5:50pm | Haiyuan (Prof Wang) | Watson 610 | [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
 | Friday | 1:00pm - 3:00pm | Chen Wang | Student Lounge, 6th Floor, SSW / Online | - |
 | Friday | 4:15pm - 5:15pm | Shok Fei Yeung | Student Lounge, 6th Floor, SSW | - |
-| Saturday | Break | - | - | - |
-| Sunday | Break | - | - | - |
 
 **Notes:** 
 - For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
