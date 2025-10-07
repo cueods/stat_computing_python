@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Instructor's Bio
+title: Instructors' Bio
 ---
 
-# **Instructor's Bio**
+# **Instructors' Bio**
 
 ## **Haiyuan Wang**
 
