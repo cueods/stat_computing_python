@@ -23,10 +23,10 @@ Nikira, naw2146; Yizi, yz4123; Ziming, zz3234; Miao, mz3055; Junshuo, jl6900; Ji
 | | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** |
 |---|---|---|---|---|---|
 | **13:00-14:00** | | | **Jiayi**<br>OFFICE1 / Online<br>**Link:** [Calendly](https://calendly.com/jz3856-columbia/30min) | | **Chen**<br>OFFICE1 |
-| **14:00-15:00** | **Nikira**<br>OFFICE1 | | | **Miao**<br>OFFICE1 | **Ben (Prof Goodrich)**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
-| **15:00-16:00** | **Nikira**<br>OFFICE1 | **Yizi**<br>Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | **Junshuo**<br>OFFICE2 | | **Ben (Prof Goodrich)**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
-| **16:00-17:00** | | **Yizi**<br>Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | | **Shok Fei** (16:15-17:15)<br>OFFICE1 | **Ben (Prof Goodrich)**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
-| **17:00-18:00** | **Ziming**<br>OFFICE1 | | | **Haiyuan (Prof Wang)**<br>Watson 610<br>**Link:** [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) | |
+| **14:00-15:00** | **Nikira**<br>OFFICE1 | | | **Miao**<br>OFFICE1 | **Ben**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| **15:00-16:00** | **Nikira**<br>OFFICE1 | **Yizi**<br>Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | **Junshuo**<br>OFFICE2 | | **Ben**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| **16:00-17:00** | | **Yizi**<br>Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | | **Shok Fei** (16:15-17:15)<br>OFFICE1 | **Ben**<br>Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| **17:00-18:00** | **Ziming**<br>OFFICE1 | | | **Haiyuan**<br>Watson 610<br>**Link:** [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) | |
 
 **OFFICE1**: Student Lounge, 6th Floor, SSW  
 **OFFICE2**: Watson Hall General Lounge Area / Open Space
