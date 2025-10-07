@@ -6,12 +6,12 @@ title: Teaching Team
 # **Teaching Team**
 
 ## **Section 1**
-* Instructor: Benjamin Ph.D.
+* Instructor: Benjamin Ph.D. (benjamin.goodrich)
 * Class time: Fridays 10:10am - 12:40pm  
 * Location: 417 International Affairs Building
 
 ## **Section 2**
-* Instructor: Haiyuan Ph.D.
+* Instructor: Haiyuan Ph.D. (hw2592)
 * Class time: Thursdays 6:10pm - 8:40pm  
 * Location: 501 Schermerhorn
 
