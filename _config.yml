@@ -13,6 +13,7 @@ plugins:
 # Navigation
 header_pages:
   - courses/stat_computing/lectures/learning_python_intro.html
+  - teaching-team.md
   - instructor-bio.md
   - academic-honesty.md
   - setup/conda_and_navigator_setup.html
