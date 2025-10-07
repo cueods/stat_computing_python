@@ -1,7 +1,7 @@
 title: "Statistical Computing and Introduction to Data Science"
 description: "GR5206/4206 - Fall 2025"
 baseurl: "/stat_computing_python"
-url: "https://cueods.github.io"
+url: "https://cueods.github.io/stat_computing_python/"
 
 # Build settings
 markdown: kramdown
