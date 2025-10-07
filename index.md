@@ -101,9 +101,6 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 | **Thu** | | **Miao Zhou** (mz3055)<br>**Location:** Student Lounge, 6th Floor, SSW | | **Shok Fei Yeung** (sy3289)<br>**Location:** Student Lounge, 6th Floor, SSW | **Haiyuan (Prof Wang)**<br>**Location:** Watson 610<br>**Link:** [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
 | **Fri** | **Chen Wang** (cw3633)<br>**Location:** Student Lounge, 6th Floor, SSW / Online | **Ben (Prof Goodrich)**<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | **Ben (Prof Goodrich)**<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | **Ben (Prof Goodrich)**<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | |
 
-**Notes:** 
-- For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
-- Some TAs may be available both in-person and online - check with them directly.
 
 ### **Grading**
 
