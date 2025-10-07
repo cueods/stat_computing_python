@@ -16,14 +16,7 @@ title: Teaching Team
 * Location: 501 Schermerhorn
 
 ## **TAs:** 
-* Nikira Walter (naw2146)
-* Yizi Zhang (yz4123)
-* Ziming Zhang (zz3234)
-* Miao Zhou (mz3055)
-* Junshuo (Lance) Liu
-* Jiayi Zhu (jz3856)
-* Chen Wang (cw3633)
-* Shok Fei Yeung (sy3289)
+Nikira, naw2146; Yizi, yz4123; Ziming, zz3234; Miao, mz3055; Junshuo (Lance), ; Jiayi, jz3856; Chen, cw3633; Shok Fei, sy3289
 
 ## **Office Hours:**
 
