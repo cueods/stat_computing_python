@@ -29,4 +29,4 @@ Nikira, naw2146; Yizi, yz4123; Ziming, zz3234; Miao, mz3055; Junshuo, jl6900; Ji
 | **17:00-18:00** | **Ziming**<br>OFFICE1 | | | **Haiyuan**<br>Watson 610<br>**Link:** [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) | |
 
 **OFFICE1**: Student Lounge, 6th Floor, SSW  
-**OFFICE2**: Watson Hall General Lounge Area / Open Space
+**OFFICE2**: Watson Hall 6th Floor Lounge Area
