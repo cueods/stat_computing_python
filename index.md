@@ -93,18 +93,13 @@ Install Jupyter Notebook via Anaconda (Recommended for Beginners).
 
 #### **Office Hours:**
 
-| Day | Time | Instructor/TA | Location | Booking Link |
-|-----|------|---------------|----------|--------------|
-| Monday | 2:00pm - 4:00pm | Nikira | Student Lounge, 6th Floor, SSW | - |
-| Monday | 5:00pm - 6:00pm | Ziming Zhang | Student Lounge, 6th Floor, SSW | - |
-| Tuesday | 3:00pm - 5:00pm | Yizi Zhang | Online | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) |
-| Wednesday | 2:00pm - 3:00pm | Jiayi Zhu | Student Lounge, 6th Floor, SSW / Online | [Calendly](https://calendly.com/jz3856-columbia/30min) |
-| Wednesday | 3:00pm - 4:30pm | Junshuo (Lance) Liu | Watson Hall General Lounge Area / Open Space | - |
-| Thursday | 2:00pm - 3:00pm | Miao Zhou | Student Lounge, 6th Floor, SSW | - |
-| Thursday | 3:50pm - 5:50pm | Haiyuan (Prof Wang) | Watson 610 | [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) |
-| Thursday | 4:15pm - 5:15pm | Shok Fei Yeung | Student Lounge, 6th Floor, SSW | - |
-| Friday | 1:00pm - 3:00pm | Chen Wang | Student Lounge, 6th Floor, SSW / Online | - |
-| Friday | 2:00pm - 5:00pm | Ben (Prof Goodrich) | Watson 612 / Online | [Zoom Link](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking Link](https://calendar.app.google/8DTmEBK4SpWv7ceq6) |
+| | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+|---|---|---|---|---|---|
+| **Monday** | | **Instructor/TA:** Nikira<br>**Location:** Student Lounge, 6th Floor, SSW | **Instructor/TA:** Nikira<br>**Location:** Student Lounge, 6th Floor, SSW | | **Instructor/TA:** Ziming Zhang<br>**Location:** Student Lounge, 6th Floor, SSW |
+| **Tuesday** | | | **Instructor/TA:** Yizi Zhang<br>**Location:** Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | **Instructor/TA:** Yizi Zhang<br>**Location:** Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) | |
+| **Wednesday** | | **Instructor/TA:** Jiayi Zhu<br>**Location:** Student Lounge, 6th Floor, SSW / Online<br>**Link:** [Calendly](https://calendly.com/jz3856-columbia/30min) | **Instructor/TA:** Junshuo (Lance) Liu<br>**Location:** Watson Hall General Lounge Area / Open Space | | |
+| **Thursday** | | **Instructor/TA:** Miao Zhou<br>**Location:** Student Lounge, 6th Floor, SSW | **Instructor/TA:** Haiyuan (Prof Wang)<br>**Location:** Watson 610<br>**Link:** [Calendly](https://calendly.com/hw2592-columbia/one-one-one-10-minute-meeting) | **Instructor/TA:** Shok Fei Yeung<br>**Location:** Student Lounge, 6th Floor, SSW | |
+| **Friday** | **Instructor/TA:** Chen Wang<br>**Location:** Student Lounge, 6th Floor, SSW / Online | **Instructor/TA:** Ben (Prof Goodrich)<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | **Instructor/TA:** Ben (Prof Goodrich)<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | **Instructor/TA:** Ben (Prof Goodrich)<br>**Location:** Watson 612 / Online<br>**Link:** [Zoom](https://us06web.zoom.us/j/5378171089?pwd=30gGgVPYJ4VTq6CzNTjUlyZFb9gSCu.1) / [Booking](https://calendar.app.google/8DTmEBK4SpWv7ceq6) | |
 
 **Notes:** 
 - For Prof Wang's office hours, to schedule a longer session, please book multiple consecutive time slots.
