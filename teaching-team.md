@@ -16,14 +16,14 @@ title: Teaching Team
 * Location: 501 Schermerhorn
 
 ## **TAs:** 
-* Nikira Walter, naw2146@columbia.edu  
-* Yizi Zhang, yz4123@columbia.edu
-* Ziming Zhang
-* Miao Zhou
+* Nikira Walter (naw2146)
+* Yizi Zhang (yz4123)
+* Ziming Zhang (zz3234)
+* Miao Zhou (mz3055)
 * Junshuo (Lance) Liu
-* Jiayi Zhu
-* Chen Wang
-* Shok Fei Yeung
+* Jiayi Zhu (jz3856)
+* Chen Wang (cw3633)
+* Shok Fei Yeung (sy3289)
 
 ## **Office Hours:**
 
