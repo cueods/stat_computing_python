@@ -8,7 +8,7 @@ title: Teaching Team
 ## **Section 1**
 * Instructor: Benjamin Goodwich Ph.D., benjamin.goodrich@columbia.edu  
 * Class time: Fridays 10:10am - 12:40pm  
-* Location: 417 INTERNATIONAL AFFAIRS BLDG
+* Location: 417 International Affairs Bldg
 
 ## **Section 2**
 * Instructor: Haiyuan Wang Ph.D., hw2592@columbia.edu  
